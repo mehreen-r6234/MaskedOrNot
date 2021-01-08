@@ -26,7 +26,7 @@ For evaluation, a testset containing total 212 images were prepared among which 
 ## Running the application
 1. Clone the project to your desired directory
 ```
-$ git clone 
+$ git clone https://github.com/mehreen-r6234/MaskedOrNot.git
 ```
 2. Create virtual environment 
 ```
